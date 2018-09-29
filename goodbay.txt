@@ -1,1 +1,2 @@
-print ("goodbay")
+print ("goo")
+print ("rick")
