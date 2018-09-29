@@ -1,4 +1,5 @@
 go
 
 do go
-print("hello11")
+print("hello;")
+print("hello;")
