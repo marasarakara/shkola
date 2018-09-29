@@ -1,9 +1,4 @@
-go
-
-do go
-
+print("hello;")
+print("hello;")
 print("hello my guy's")
 
-print("hello;")
-print("hello;")
->>>>>>> master
